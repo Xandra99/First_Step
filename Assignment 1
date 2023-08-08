@@ -1,0 +1,13 @@
+# Algorithm to swap two variables
+1. x = 100
+2. y = 200
+3. Declare z 
+4. z = x
+5. x = y
+6. y = z
+7. print "The value of x after swapping: 200"
+8. print "The value of y after swapping: 100"
+
+
+
+
